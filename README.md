@@ -1,6 +1,6 @@
 # To-do-list
 
-A responsive and feature-rich to-do list application built with React and Vite.
+<!-- A responsive and feature-rich to-do list application built with React and Vite.
 This app allows users to:
 
 1.Add, mark as complete, and delete tasks.
@@ -33,4 +33,4 @@ npm install
 
 3.Run the application:
 
-npm run dev
+npm run dev -->
